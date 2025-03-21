@@ -1,0 +1,42 @@
+/* Reset & base style */
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    margin: 2rem auto;
+    max-width: 700px;
+    padding: 0 1rem;
+}
+
+h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.25rem;
+}
+
+ul {
+    list-style: square;
+    padding-left: 1.5rem;
+}
+
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+em {
+    color: #444;
+    font-style: italic;
+}
