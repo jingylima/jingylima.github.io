@@ -1,11 +1,13 @@
 body {
     background-color: #fff;
     color: #000;
-    font-family: 'Source Serif 4', serif;
-    line-height: 1.6;
-    margin: 2rem auto;
-    max-width: 700px;
-    padding: 0 1rem;
+    font-family: times-new-roman;
+    text-align: left;
+}
+
+main {
+    margin: 0;
+    max-width: none;
 }
 
 h1 {
@@ -16,10 +18,8 @@ h1 {
 
 h2 {
     font-size: 1.4rem;
-    margin-top: 2.5rem;
-    margin-bottom: 0.75rem;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 0.25rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
     font-weight: normal;
 }
 
@@ -30,15 +30,14 @@ ul {
 }
 
 a {
-    color: #000;
-    text-decoration: none;
+    color: #0000EE;
+    text-decoration: underline;
 }
 
-a:hover {
-    color: #444;
+a:visited {
+    color: #551A8B;
 }
 
 em {
     color: #555;
-    font-style: italic;
 }
