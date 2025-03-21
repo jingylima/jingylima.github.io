@@ -1,6 +1,44 @@
-< !DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Jing Yi Lim</title><link rel="stylesheet" href="style.css" /></head><body><main><h1>Jing Yi Lim</h1><section><h2>Achievements</h2><ul><li>Undergraduate Researcher at Barsky Lab,
-UC Berkeley</li><li>Undergraduate Researcher at Margolis Lab,
-UCSF</li><li>Software Engineer at Voleon Capital Management</li><li>International Mathematical Olympiad National Selection Test (Malaysia) – Gold Medallist</li><li>Northern California Forensics Association Tournament,
-Spring 2018 – First Place Speaker & Second Place Debate Team</li></ul></section><section><h2>Hackathons</h2><p>I've participated in several hackathons across the country, building technical solutions on fast timelines alongside interdisciplinary teams.
- </p><ul><li><strong>Best Finance Technology Hack</strong>,
-CalHacks 6.0 @ UC Berkeley <br><a href="https://devpost.com/software/performanceplus-okzb86" target="_blank">Devpost</a>· <a href="https://github.com/jingylima/PerformancePlus" target="_blank">GitHub</a><br><em>Short description goes here.</em></li><li><strong>1st Place Overall Team</strong>, Hack NY @ NYU <br><a href="https://devpost.com/software/patientplus" target="_blank">Devpost</a>· <a href="https://github.com/jingylima/PatientPlus" target="_blank">GitHub</a><br><em>Short description goes here.</em></li></ul></section></main></body></html>
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    margin: 2rem auto;
+    max-width: 700px;
+    padding: 0 1rem;
+}
+
+h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.4rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.25rem;
+    font-weight: normal;
+}
+
+ul {
+    list-style: square;
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #444;
+}
+
+em {
+    color: #555;
+    font-style: italic;
+}
